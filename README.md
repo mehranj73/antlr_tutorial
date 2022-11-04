@@ -2,4 +2,4 @@
 
 ANTLR sample in Kotlin
 
-Use `gradlew GenerateGrammarSource` command or its task to generate grammr. 
+Use `gradlew GenerateGrammarSource` command or its task to generate grammar. 
