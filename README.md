@@ -1,5 +1,5 @@
 # antlr_tutorial
 
-Antlr smaple in Kotlin
+ANTLR sample in Kotlin
 
 Use `gradlew GenerateGrammarSource` command or its task to generate grammr. 
